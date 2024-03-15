@@ -7,7 +7,7 @@ backend:
 2. Enter the file "1-utils" and open "dal.ts" and enter your details in createPoll.
 3. Enter in Terminal "npm start" .
 
-step2
+step3
 forntend:
 1. Enter in Terminal "npm install" .
 2. Enter in Terminal "npm run dev" .
